@@ -12,7 +12,6 @@
  
   📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
  
-<img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
  
  ![Profile views](https://gpvc.arturio.dev/youtubeslgeekshow)
  
