@@ -1,9 +1,24 @@
 
-<h1 align="center">Hey i'am supun maduranga <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px"></h1>
+<h1 align="center">Hey i'am @supunma <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px"></h1>
 
  
+✌️I’m not trying to be Different. To me, I’m just being myself & my style ♥️
+
+I invite all of you Programming Lovers to join with me 🙇‍♂. 
+
+◈ @szteambots  
+<br>
+◈ @slbotzone  
+<br>
+◈ @supunmabot
+<br>
  
-  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
+ ![Profile views](https://gpvc.arturio.dev/youtubeslgeekshow)
+ 
+ <p align="center"><a href="https://szsupunma.github.io/supunma"><img src="https://telegra.ph/file/a7a6731cb535a636a1d6b.png" width="400"></a></p>
+<p align="center"></P>
+ 
+   🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
   🔭 I’m currently working on : sl geek show 😋 Corporation  <br>
   📚 I went to : <b> ananda shasthralaya mathugama national school <b> <br>
   👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
@@ -11,15 +26,6 @@
   ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-17-blue) Teen 
  
   📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
- 
-<img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
- 
- ![Profile views](https://gpvc.arturio.dev/youtubeslgeekshow)
- 
-
- <p align="center"><a href="https://szsupunma.github.io/supunma"><img src="https://telegra.ph/file/a7a6731cb535a636a1d6b.png" width="400"></a></p>
-<p align="center"></P>
- 
  
  <b>Contact Me Via Social Platform</b>
   
