@@ -32,11 +32,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youtubeslgeekshow" alt="youtubeslgeekshow" /></a> </p>
  </details></h2>
  
-## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=szsupunma&repo=Video-call-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=szsupunma&repo=call-music-plus-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=szsupunma&repo=covid-update-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=szsupunma&repo=Inline-media-search-Bot&theme=dark)
  
 # MY SOCIAL MEDIA STATICS 👋 
  
