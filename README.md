@@ -33,10 +33,10 @@
  </details></h2>
  
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=Video-call-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=call-music-plus-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=covid-update-bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=youtubeslgeekshow&repo=Inline-media-search-Bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=szsupunma&repo=Video-call-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=szsupunma&repo=call-music-plus-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=szsupunma&repo=covid-update-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=szsupunma&repo=Inline-media-search-Bot&theme=dark)
  
 # MY SOCIAL MEDIA STATICS 👋 
  
@@ -81,7 +81,7 @@
  
  ## 🏆 GitHub Activity
 
-![Metrics](https://metrics.lecoq.io/youtubeslgeekshow?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
+![Metrics](https://metrics.lecoq.io/szsupunma?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
  
  
  
