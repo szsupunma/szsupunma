@@ -65,21 +65,12 @@ My github stats
 
  
  
-# MY SOCIAL MEDIA STATICS 👋 
- 
 - [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCvYfJcTr8RY72dIapzMqFQA?label=slgeekshow%20show&style=social)](https://www.youtube.com/c/SLGeeKShows/videos)
  
 - [![Facebooklikes](https://img.shields.io/badge/Facebook%20Likes-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://socialblade.com/facebook/page/SL-Geek-Show-yt-103654258471929)
  
 - [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/sl_geek_show)
   
- 
-
-
-<h1><details>
-  <summary><b>Don't Open this path </b></summary>
-  <p><a href="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA" title="How to create Bot useing python ">How to create Bot useing python</a>
- </details></h1>
  
 
  ## 🏆 GitHub Activity
