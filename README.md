@@ -20,6 +20,9 @@ I invite all of you Programming Lovers to join with me 🙇‍♂.
  
  ![Profile views](https://gpvc.arturio.dev/youtubeslgeekshow)
  
+ ![TG Channel](https://img.shields.io/badge/dynamic/json?color=blue&label=szteam%20@szteambots&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dszteambots&logo=telegram)
+![TG Chat](https://img.shields.io/badge/dynamic/json?color=blue&label=support%20@slbotzone&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dslbotzone&logo=telegram) 
+
  <p align="center"><a href="https://szsupunma.github.io/supunma"><img src="https://telegra.ph/file/a7a6731cb535a636a1d6b.png" width="400"></a></p>
 <p align="center"></P>
  
