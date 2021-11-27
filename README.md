@@ -1,7 +1,13 @@
 
-<h1 align="center">Hey i'am @supunma <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px"></h1>
+<h1 align="center">Hey i'am @supunma</h1>
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ 
+<p align="left">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+/>
 
-[![supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=szsupunma)](https://github.com/anuraghazra/github-readme-stats)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szsupunma&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
  
 ✌️I’m not trying to be Different. To me, I’m just being myself & my style ♥️
