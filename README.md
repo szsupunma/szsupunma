@@ -1,6 +1,8 @@
 
 <h1 align="center">Hey i'am @supunma <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px"></h1>
 
+[![supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=szsupunma)](https://github.com/anuraghazra/github-readme-stats)
+[![supuns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=szsupunma)](https://github.com/anuraghazra/github-readme-stats)
  
 ✌️I’m not trying to be Different. To me, I’m just being myself & my style ♥️
 
