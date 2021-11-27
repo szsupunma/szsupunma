@@ -4,7 +4,7 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=szsupunma&show_icons=true&theme=radical)
 
 
   
