@@ -31,8 +31,10 @@ I invite all of you Programming Lovers to join with me 🙇‍♂.
  ![TG Channel](https://img.shields.io/badge/dynamic/json?color=blue&label=szteam%20@szteambots&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dszteambots&logo=telegram)
 ![TG Chat](https://img.shields.io/badge/dynamic/json?color=blue&label=support%20@slbotzone&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dslbotzone&logo=telegram) 
 
- <p align="center"><a href="https://szsupunma.github.io/supunma"><img src="https://telegra.ph/file/a7a6731cb535a636a1d6b.png" width="400"></a></p>
-<p align="center"></P>
+ ## 🏆 GitHub Activity
+![Metrics](https://metrics.lecoq.io/szsupunma?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&activity=1&code=1&gists=1&lines=1&tweets=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code.lines=12&code.load=100&code.visibility=public&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
+
+
  
    🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
   🔭 I’m currently working on : sl geek show 😋 Corporation  <br>
@@ -95,8 +97,5 @@ My github stats
   
  
 
-
- ## 🏆 GitHub Activity
-![Metrics](https://metrics.lecoq.io/szsupunma?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&activity=1&code=1&gists=1&lines=1&tweets=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code.lines=12&code.load=100&code.visibility=public&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
 
 
