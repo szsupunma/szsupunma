@@ -1,35 +1,14 @@
 
-<h1 align="center">Hey i'am @supunma</h1>
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- 
+<h2 align="center">Hello There! I am supun</h2>
+
+Introduce you about myself, my name is supun maduranga ; 18 y.o from Sri lanka.
 
 ![supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=szsupunma&show_icons=true&theme=radical)
 
-
+<h4 align="center">✌️I’m not trying to be Different.<br> To me,<br> I’m just being myself & my style ♥️</h4>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szsupunma&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/szsupunma)
  
-✌️I’m not trying to be Different. To me, I’m just being myself & my style ♥️
-
-I invite all of you Programming Lovers to join with me 🙇‍♂. 
-
-◈ @szteambots  
-<br>
-◈ @slbotzone  
-<br>
-◈ @supunmabot
-<br>
- 
-## 💵 Donate Me
-💎Ltc coin ```LhCj3H8abLuSb81B9ojJYpHPkLz6xCYayn```
-<br>
-💎Bit Coin ```17fdwXfHcj3Yeu7LrswnQRX15RzSK5bXER```
- 
- ![Profile views](https://gpvc.arturio.dev/youtubeslgeekshow)
- 
- ![TG Channel](https://img.shields.io/badge/dynamic/json?color=blue&label=szteam%20@szteambots&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dszteambots&logo=telegram)
-![TG Chat](https://img.shields.io/badge/dynamic/json?color=blue&label=support%20@slbotzone&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dslbotzone&logo=telegram) 
 
  ## 🏆 GitHub Activity
 ![Metrics](https://metrics.lecoq.io/szsupunma?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&activity=1&code=1&gists=1&lines=1&tweets=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code.lines=12&code.load=100&code.visibility=public&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
@@ -43,7 +22,7 @@ I invite all of you Programming Lovers to join with me 🙇‍♂.
 |  Telegram    | [![Telegram](https://img.shields.io/badge/slbotzone%20Team-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/slbotzone)&nbsp;|
 |  Facebook  | [![Facebook](https://img.shields.io/badge/Follow%20me%20on%20Facebook-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://www.facebook.com/SL-Geek-Show-yt-103654258471929/)&nbsp;|
 |  Intagram | [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://www.instagram.com/szsupunma/)&nbsp; |
-| Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/youtubeslgeekshow) |
+| Github | [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/szsupunma) |
   
 
  
