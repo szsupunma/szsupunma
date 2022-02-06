@@ -33,7 +33,7 @@ Introduce you about myself, my name is supun maduranga ; 18 y.o from Sri lanka.
 </a>
 
 
-##**My github stats**
+ **My github stats**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szsupunma" alt="szsupunma" /></a> </p>
 
  
