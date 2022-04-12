@@ -9,7 +9,7 @@ Introduce you about myself, my name is supun maduranga ; 18 y.o from Sri lanka.
   
 ![Profile views](https://gpvc.arturio.dev/szsupunma)
 
-<iframe id='kofiframe' src='https://ko-fi.com/supunma/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='supunma'></iframe>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/supunma)
 
  ## 🏆 GitHub Activity
 ![Metrics](https://metrics.lecoq.io/szsupunma?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&activity=1&code=1&gists=1&lines=1&tweets=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code.lines=12&code.load=100&code.visibility=public&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FColombo)
